@@ -1,2 +1,2 @@
-# rainbow-snake
-A rainbow-snake finding its path.
+# About
+It tries to escape, run, find and feel. Nothing else
